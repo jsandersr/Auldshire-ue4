@@ -1,0 +1,2 @@
+D:\source\Auldshire-ue4\Auldshire\Intermediate\Build\Win64\UE4Editor\Development\Auldshire\Definitions.Auldshire.h
+D:\source\Auldshire-ue4\Auldshire\Source\Auldshire\Auldshire.h

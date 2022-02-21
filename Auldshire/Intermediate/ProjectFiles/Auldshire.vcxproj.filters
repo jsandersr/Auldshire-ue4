@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Auldshire.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B048918A-8C33-4B66-B80B-0A3B8A827DBB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Auldshire.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AuldshireEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{36663E6C-B3A5-4E8A-9326-3343294D74D3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Auldshire">
+      <UniqueIdentifier>{25E172AF-F7B0-4E36-9F3D-74C95382209D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Auldshire\Auldshire.Build.cs">
+      <Filter>Source\Auldshire</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Auldshire\Auldshire.cpp">
+      <Filter>Source\Auldshire</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Auldshire\Auldshire.h">
+      <Filter>Source\Auldshire</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Auldshire\AuldshireGameModeBase.cpp">
+      <Filter>Source\Auldshire</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Auldshire\AuldshireGameModeBase.h">
+      <Filter>Source\Auldshire</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Auldshire\TileModel.cpp">
+      <Filter>Source\Auldshire</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Auldshire\TileModel.h">
+      <Filter>Source\Auldshire</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

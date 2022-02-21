@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Auldshire",
+			"Path": "D:\\source\\Auldshire-ue4\\Auldshire\\Source\\Auldshire.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AuldshireEditor",
+			"Path": "D:\\source\\Auldshire-ue4\\Auldshire\\Source\\AuldshireEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

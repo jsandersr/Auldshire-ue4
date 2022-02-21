@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\source\\Auldshire-ue4\\Auldshire\\Source\\Auldshire\\Auldshire.Build.cs",
+		"D:\\source\\Auldshire-ue4\\Auldshire\\Source\\Auldshire.Target.cs",
+		"D:\\source\\Auldshire-ue4\\Auldshire\\Source\\AuldshireEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

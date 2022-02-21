@@ -1,0 +1,7 @@
+D:\source\Auldshire-ue4\Auldshire\Intermediate\Build\Win64\UE4Editor\Development\Auldshire\Definitions.Auldshire.h
+D:\source\Auldshire-ue4\Auldshire\Source\Auldshire\AuldshireGameModeBase.h
+D:\programs\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\programs\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\programs\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\programs\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\source\Auldshire-ue4\Auldshire\Intermediate\Build\Win64\UE4Editor\Inc\Auldshire\AuldshireGameModeBase.generated.h
